@@ -92,10 +92,6 @@ The scanner performs a recursive search within the `bin` folder to locate `WebDr
 - If it reports "Not Found", verify that `dotnet publish` completed without errors.
 - Check whether your **Firewall or Antivirus** is blocking `geckodriver.exe` from executing.
 
-### 3. Terminal Location
-
-The scanner is designed to be **stationary**. It uses absolute paths for all operations — your terminal will remain in the same directory where you started the script, even after completion.
-
 ---
 
 ## Automation Logic
