@@ -1,7 +1,7 @@
 ﻿# --- PARAMETERS ---
 Param(
     [Parameter(Mandatory=$false)]
-    [string]$TargetPath = (Join-Path $PSScriptRoot "NvidiaSearch")
+    [string]$TargetPath = (Join-Path $PSScriptRoot "NvidiaDBScannerProject")
 )
 
 # --- INITIALIZATION ---
@@ -98,36 +98,46 @@ try {
     Write-Host "[INFO] Navigating to NVIDIA Database..." -ForegroundColor Gray
     $driver.Navigate().GoToUrl("https://www.nvidia.com/Download/index.aspx")
     
-    Write-Host "[WAIT] Sleeping 5s for AJAX initialization..." -ForegroundColor Gray
-    Start-Sleep -Seconds 5
+    Write-Host "[WAIT] Waiting for document ready state..." -ForegroundColor Gray
+
+    while ($driver.ExecuteScript("return document.readyState") -ne "complete") {
+        Start-Sleep -Milliseconds 200
+    }
+    Write-Host "[OK] Document is ready." -ForegroundColor Green
 
     Write-Host "[SCAN] Extracting full driver parameters via JavaScript..." -ForegroundColor Yellow
 
     $deepScanJs = @"
     return (async () => {
         let fullGpuList = [];
-        const types = await $.ajax({
-            url: dd3Config.nvServicesLocation + '/controller.php',
-            data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify({pt:'1', isBeta:'0'}),
-            dataType: 'json'
-        });
+        const baseUrl = dd3Config.nvServicesLocation + '/controller.php';
+
+        const fetchData = async (p) => {
+            try {
+                return await $.ajax({
+                    url: baseUrl,
+                    data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify(p),
+                    dataType: 'json'
+                });
+            } catch (e) { return null; }
+        };
+
+        const types = await fetchData({pt: '1', isBeta: '0'});
+        if (!types || !types[0]) return "[]";
 
         const activeTypes = types[0].filter(t => t.id > 0);
 
         for (let type of activeTypes) {
-            const seriesData = await $.ajax({
-                url: dd3Config.nvServicesLocation + '/controller.php',
-                data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify({pt: type.id.toString(), isBeta:'0'}),
-                dataType: 'json'
-            });
-
+            const seriesData = await fetchData({pt: type.id.toString(), isBeta: '0'});
+            
             if (seriesData && seriesData[1]) {
                 const seriesList = seriesData[1].filter(s => s.id > 0 && !s.menutext.includes('Select'));
+                
                 for (let series of seriesList) {
-                    const gpuData = await $.ajax({
-                        url: dd3Config.nvServicesLocation + '/controller.php',
-                        data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify({pt: type.id.toString(), pst: series.id.toString(), isBeta:'0'}),
-                        dataType: 'json'
+                    const gpuData = await fetchData({
+                        pt: type.id.toString(), 
+                        pst: series.id.toString(), 
+                        isBeta: '0'
                     });
 
                     if (gpuData && gpuData[2]) {
@@ -172,9 +182,12 @@ catch {
     Write-Host "`n[ERROR] Fatal error during scan: $($_.Exception.Message)" -ForegroundColor Red
 }
 finally {
-    if ($null -ne $driver) {
-        Write-Host "`n[CLEANUP] Closing browser engine..." -ForegroundColor Gray
-        $driver.Quit()
-        Write-Host "[LOG] $(Get-Date -Format 'HH:mm:ss') - Process terminated. Terminal location unchanged." -ForegroundColor Gray
-    }
+    Write-Host "[ACTION] Cleaning up environment..." -ForegroundColor Gray
+
+    if ($null -ne $driver) { $driver.Quit(); $driver.Dispose() }
+
+    $null = Get-Process "geckodriver" -ErrorAction SilentlyContinue | Stop-Process -Force
+    $null = Get-Process "firefox" -ErrorAction SilentlyContinue | Where-Object { $_.MainWindowTitle -eq "" } | Stop-Process -Force
+
+    Write-Host "[OK] $(Get-Date -Format 'HH:mm:ss') - Cleanup complete." -ForegroundColor Green
 }
