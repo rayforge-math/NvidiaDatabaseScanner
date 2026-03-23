@@ -38,7 +38,7 @@ if (!(Get-Command dotnet -ErrorAction SilentlyContinue)) {
         Write-Host "[CRITICAL] .NET SDK is required but could not be installed automatically." -ForegroundColor Red
         Write-Host "[ERROR] $($_.Exception.Message)" -ForegroundColor Red
         Write-Host "Please install .NET 8 SDK manually: https://dotnet.microsoft.com/download" -ForegroundColor Gray
-        return # Terminate script
+        return
     }
 } else {
     $sdkVer = (dotnet --version)
@@ -110,47 +110,66 @@ try {
     $deepScanJs = @"
     return (async () => {
         let fullGpuList = [];
+        const seenGpuIds = new Set(); // Verhindert Dubletten
         const baseUrl = dd3Config.nvServicesLocation + '/controller.php';
+    
+        // helper to avoid timeouts
+        const sleep = ms => new Promise(r => setTimeout(r, ms));
 
         const fetchData = async (p) => {
             try {
+                // default payload to catch all possible entries
+                const payload = {
+                    driverType: "all",
+                    sa: "1",
+                    isBeta: "0",
+                    ...p
+                };
                 return await $.ajax({
                     url: baseUrl,
-                    data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify(p),
+                    data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify(payload),
                     dataType: 'json'
                 });
             } catch (e) { return null; }
         };
 
-        const types = await fetchData({pt: '1', isBeta: '0'});
-        if (!types || !types[0]) return "[]";
+        const typesResponse = await fetchData({pt: '0'});
+        if (!typesResponse || !typesResponse[0]) return "[]";
 
-        const activeTypes = types[0].filter(t => t.id > 0);
+        const activeTypes = typesResponse[0].filter(t => t.id > 0);
 
+        // check all hardware types
         for (let type of activeTypes) {
-            const seriesData = await fetchData({pt: type.id.toString(), isBeta: '0'});
-            
+            await sleep(50);
+            const seriesData = await fetchData({pt: type.id.toString()});
+        
             if (seriesData && seriesData[1]) {
                 const seriesList = seriesData[1].filter(s => s.id > 0 && !s.menutext.includes('Select'));
-                
+            
+                // check all product series within a type
                 for (let series of seriesList) {
+                    await sleep(50);
                     const gpuData = await fetchData({
                         pt: type.id.toString(), 
-                        pst: series.id.toString(), 
-                        isBeta: '0'
+                        pst: series.id.toString()
                     });
 
+                    // extract all hardware entries within a series
                     if (gpuData && gpuData[2]) {
                         gpuData[2].filter(g => g.id > 0).forEach(gpu => {
-                            fullGpuList.push({
-                                type_name: type.menutext,
-                                pt: type.id,
-                                series_name: series.menutext,
-                                psid: series.id,
-                                name: gpu.menutext,
-                                pfid: gpu.id,
-                                search_string: type.id + '|' + series.id + '|' + gpu.id 
-                            });
+                            const uniqueKey = type.id + '-' + series.id + '-' + gpu.id;
+                            if (!seenGpuIds.has(uniqueKey)) {
+                                seenGpuIds.add(uniqueKey);
+                                fullGpuList.push({
+                                    type_name: type.menutext,
+                                    pt: type.id,
+                                    series_name: series.menutext,
+                                    psid: series.id,
+                                    name: gpu.menutext,
+                                    pfid: gpu.id,
+                                    search_string: type.id + '|' + series.id + '|' + gpu.id 
+                                });
+                            }
                         });
                     }
                 }
