@@ -12,15 +12,14 @@ Before running the scanner, ensure your system meets these requirements:
 |-------------|---------|
 | **PowerShell 7+** | Optimized for PowerShell Core. [Download here.](https://github.com/PowerShell/PowerShell/releases) |
 | **Firefox-based Browser** | Works with Mozilla Firefox, Floorp, or LibreWolf. The scanner automatically detects your browser via the Windows Registry. |
-| **Internet Access** | Required for NuGet package downloads and the live database scan. |
 
 ---
 
 ## Installation & Execution
 
-The scanner is **stationary and portable** — it will not change your terminal's working directory and stores all dependencies within its own project folder.
+The scanner is **stationary and portable** — it stores all dependencies within its own project folder.
 
-**1. Download** – Save the `NvidiaDatabaseScanner.ps1` script to any folder.
+**1. Download** – Clone the repository.
 
 **2. Set Execution Policy** – Open PowerShell 7 and allow script execution:
 
@@ -30,11 +29,11 @@ Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser
 
 **3. Run the Scanner:**
 
-- **Default** – Creates a folder named `NvidiaSearch` next to the script:
+- **Default** – Stores the resulting `NvidiaDriverMasterData.json` next to the script:
   ```powershell
   .\NvidiaDatabaseScanner.ps1
   ```
-- **Custom Path** – Store data in a specific location:
+- **Custom Path** – Store the resulting `NvidiaDriverMasterData.json` in a specific location:
   ```powershell
   .\NvidiaDatabaseScanner.ps1 -TargetPath "C:\Custom\Path"
   ```
@@ -79,17 +78,11 @@ The generated `NvidiaDriverMasterData.json` maps human-readable names to the tec
 
 The scanner uses GeckoDriver, which locates your browser (Firefox, Floorp, etc.) via the Windows **App Paths** Registry.
 
-- If you use a **portable version** (not installed via an installer), the scanner may fail to detect it.
-- **Fix:** Manually set the binary path in **Step 4** of the script:
-  ```powershell
-  $options.BinaryLocation = "C:\Path\To\floorp.exe"
-  ```
-
 ### 2. File Not Found (Recursive Search)
 
 The scanner performs a recursive search within the `bin` folder to locate `WebDriver.dll` and `geckodriver.exe`.
 
-- If it reports "Not Found", verify that `dotnet publish` completed without errors.
+- If it reports "Not Found", verify the binaries/libraries are present.
 - Check whether your **Firewall or Antivirus** is blocking `geckodriver.exe` from executing.
 
 ---

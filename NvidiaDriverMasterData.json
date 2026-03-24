@@ -1,0 +1,5962 @@
+[
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series (Notebooks)",
+    "psid": 133,
+    "name": "NVIDIA GeForce RTX 5090 Laptop GPU",
+    "pfid": 1073
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series (Notebooks)",
+    "psid": 133,
+    "name": "NVIDIA GeForce RTX 5080 Laptop GPU",
+    "pfid": 1074
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series (Notebooks)",
+    "psid": 133,
+    "name": "NVIDIA GeForce RTX 5070 Ti Laptop GPU",
+    "pfid": 1075
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series (Notebooks)",
+    "psid": 133,
+    "name": "NVIDIA GeForce RTX 5070 Laptop GPU",
+    "pfid": 1077
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series (Notebooks)",
+    "psid": 133,
+    "name": "NVIDIA GeForce RTX 5060 Laptop GPU",
+    "pfid": 1079
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series (Notebooks)",
+    "psid": 133,
+    "name": "NVIDIA GeForce RTX 5050 Laptop GPU",
+    "pfid": 1091
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5090 D v2",
+    "pfid": 1092
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5090 D",
+    "pfid": 1067
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5090",
+    "pfid": 1066
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5080",
+    "pfid": 1065
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5070 Ti",
+    "pfid": 1068
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5070",
+    "pfid": 1070
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5060 Ti",
+    "pfid": 1076
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5060",
+    "pfid": 1078
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 50 Series",
+    "psid": 131,
+    "name": "NVIDIA GeForce RTX 5050",
+    "pfid": 1090
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series (Notebooks)",
+    "psid": 129,
+    "name": "GeForce RTX 4090 Laptop GPU",
+    "pfid": 1004
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series (Notebooks)",
+    "psid": 129,
+    "name": "GeForce RTX 4080 Laptop GPU",
+    "pfid": 1005
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series (Notebooks)",
+    "psid": 129,
+    "name": "GeForce RTX 4070 Laptop GPU",
+    "pfid": 1006
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series (Notebooks)",
+    "psid": 129,
+    "name": "GeForce RTX 4060 Laptop GPU",
+    "pfid": 1007
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series (Notebooks)",
+    "psid": 129,
+    "name": "GeForce RTX 4050 Laptop GPU",
+    "pfid": 1008
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4090 D",
+    "pfid": 1036
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4090",
+    "pfid": 995
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4080 SUPER",
+    "pfid": 1041
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4080",
+    "pfid": 999
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4070 Ti SUPER",
+    "pfid": 1040
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4070 Ti",
+    "pfid": 1001
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4070 SUPER",
+    "pfid": 1039
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4070",
+    "pfid": 1015
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4060 Ti",
+    "pfid": 1022
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 40 Series",
+    "psid": 127,
+    "name": "NVIDIA GeForce RTX 4060",
+    "pfid": 1023
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3080 Ti Laptop GPU",
+    "pfid": 976
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3080 Laptop GPU",
+    "pfid": 938
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3070 Ti Laptop GPU",
+    "pfid": 979
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3070 Laptop GPU",
+    "pfid": 939
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3060 Laptop GPU",
+    "pfid": 940
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3050 Ti Laptop GPU",
+    "pfid": 962
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series (Notebooks)",
+    "psid": 123,
+    "name": "GeForce RTX 3050 Laptop GPU",
+    "pfid": 963
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3090 Ti",
+    "pfid": 985
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3090",
+    "pfid": 930
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3080 Ti",
+    "pfid": 964
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3080",
+    "pfid": 929
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3070 Ti",
+    "pfid": 965
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3070",
+    "pfid": 933
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3060 Ti",
+    "pfid": 934
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3060",
+    "pfid": 942
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 30 Series",
+    "psid": 120,
+    "name": "GeForce RTX 3050",
+    "pfid": 975
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series (Notebooks)",
+    "psid": 111,
+    "name": "GeForce RTX 2080 SUPER",
+    "pfid": 919
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series (Notebooks)",
+    "psid": 111,
+    "name": "GeForce RTX 2080",
+    "pfid": 890
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series (Notebooks)",
+    "psid": 111,
+    "name": "GeForce RTX 2070 SUPER",
+    "pfid": 920
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series (Notebooks)",
+    "psid": 111,
+    "name": "GeForce RTX 2070",
+    "pfid": 889
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series (Notebooks)",
+    "psid": 111,
+    "name": "GeForce RTX 2060",
+    "pfid": 888
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series (Notebooks)",
+    "psid": 111,
+    "name": "GeForce RTX 2050",
+    "pfid": 978
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2080 Ti",
+    "pfid": 877
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2080 SUPER",
+    "pfid": 904
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2080",
+    "pfid": 879
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2070 SUPER",
+    "pfid": 903
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2070",
+    "pfid": 880
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2060 SUPER",
+    "pfid": 902
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce RTX 20 Series",
+    "psid": 107,
+    "name": "GeForce RTX 2060",
+    "pfid": 887
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX500 Series (Notebooks)",
+    "psid": 125,
+    "name": "GeForce MX570",
+    "pfid": 977
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX500 Series (Notebooks)",
+    "psid": 125,
+    "name": "GeForce MX550",
+    "pfid": 974
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX400 Series (Notebooks)",
+    "psid": 121,
+    "name": "GeForce MX450",
+    "pfid": 931
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX300 Series (Notebooks)",
+    "psid": 117,
+    "name": "GeForce MX350",
+    "pfid": 918
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX300 Series (Notebooks)",
+    "psid": 117,
+    "name": "GeForce MX330",
+    "pfid": 917
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX200 Series (Notebooks)",
+    "psid": 113,
+    "name": "GeForce MX250",
+    "pfid": 894
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX200 Series (Notebooks)",
+    "psid": 113,
+    "name": "GeForce MX230",
+    "pfid": 893
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX100 Series (Notebook)",
+    "psid": 104,
+    "name": "GeForce MX150",
+    "pfid": 853
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX100 Series (Notebook)",
+    "psid": 104,
+    "name": "GeForce MX130",
+    "pfid": 862
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce MX100 Series (Notebook)",
+    "psid": 104,
+    "name": "GeForce MX110",
+    "pfid": 863
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce GTX 16 Series (Notebooks)",
+    "psid": 115,
+    "name": "GeForce GTX 1660 Ti",
+    "pfid": 899
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce GTX 16 Series (Notebooks)",
+    "psid": 115,
+    "name": "GeForce GTX 1650 Ti",
+    "pfid": 921
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce GTX 16 Series (Notebooks)",
+    "psid": 115,
+    "name": "GeForce GTX 1650",
+    "pfid": 898
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 16 Series",
+    "psid": 112,
+    "name": "GeForce GTX 1660 SUPER",
+    "pfid": 910
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 16 Series",
+    "psid": 112,
+    "name": "GeForce GTX 1650 SUPER",
+    "pfid": 911
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 16 Series",
+    "psid": 112,
+    "name": "GeForce GTX 1660 Ti",
+    "pfid": 892
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 16 Series",
+    "psid": 112,
+    "name": "GeForce GTX 1660",
+    "pfid": 895
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 16 Series",
+    "psid": 112,
+    "name": "GeForce GTX 1650",
+    "pfid": 897
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 16 Series",
+    "psid": 112,
+    "name": "GeForce GTX 1630",
+    "pfid": 993
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1080 Ti",
+    "pfid": 845
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1080",
+    "pfid": 815
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1070 Ti",
+    "pfid": 859
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1070",
+    "pfid": 816
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1060",
+    "pfid": 817
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1050 Ti",
+    "pfid": 825
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GTX 1050",
+    "pfid": 826
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GT 1030",
+    "pfid": 852
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series",
+    "psid": 101,
+    "name": "GeForce GT 1010",
+    "pfid": 936
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series (Notebooks)",
+    "psid": 102,
+    "name": "GeForce GTX 1080",
+    "pfid": 819
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series (Notebooks)",
+    "psid": 102,
+    "name": "GeForce GTX 1070",
+    "pfid": 820
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series (Notebooks)",
+    "psid": 102,
+    "name": "GeForce GTX 1060",
+    "pfid": 821
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series (Notebooks)",
+    "psid": 102,
+    "name": "GeForce GTX 1050 Ti",
+    "pfid": 836
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 10 Series (Notebooks)",
+    "psid": 102,
+    "name": "GeForce GTX 1050",
+    "pfid": 837
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900 Series",
+    "psid": 98,
+    "name": "GeForce GTX 980 Ti",
+    "pfid": 778
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900 Series",
+    "psid": 98,
+    "name": "GeForce GTX 980",
+    "pfid": 755
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900 Series",
+    "psid": 98,
+    "name": "GeForce GTX 970",
+    "pfid": 756
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900 Series",
+    "psid": 98,
+    "name": "GeForce GTX 960",
+    "pfid": 764
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900 Series",
+    "psid": 98,
+    "name": "GeForce GTX 950",
+    "pfid": 782
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce GTX 980",
+    "pfid": 785
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce GTX 980M",
+    "pfid": 757
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce GTX 970M",
+    "pfid": 758
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce GTX 965M",
+    "pfid": 765
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce GTX 960M",
+    "pfid": 769
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce GTX 950M",
+    "pfid": 770
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 945M",
+    "pfid": 795
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 940MX",
+    "pfid": 796
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 930MX",
+    "pfid": 807
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 920MX",
+    "pfid": 808
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 940M",
+    "pfid": 771
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 930M",
+    "pfid": 772
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 920M",
+    "pfid": 773
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 900M Series (Notebooks)",
+    "psid": 99,
+    "name": "GeForce 910M",
+    "pfid": 779
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce GTX 880M",
+    "pfid": 734
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce GTX 870M",
+    "pfid": 735
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce GTX 860M",
+    "pfid": 736
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce GTX 850M",
+    "pfid": 737
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 845M",
+    "pfid": 805
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 840M",
+    "pfid": 738
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 830M",
+    "pfid": 739
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 825M",
+    "pfid": 804
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 820M",
+    "pfid": 726
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 810M",
+    "pfid": 759
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 800M Series (Notebooks)",
+    "psid": 97,
+    "name": "GeForce 800M",
+    "pfid": 797
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GTX 780M",
+    "pfid": 700
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GTX 775M",
+    "pfid": 740
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GTX 770M",
+    "pfid": 702
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GTX 765M",
+    "pfid": 701
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GTX 760M",
+    "pfid": 699
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 755M",
+    "pfid": 707
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 750M",
+    "pfid": 690
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 745M",
+    "pfid": 689
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 740M",
+    "pfid": 686
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 735M",
+    "pfid": 688
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 730M",
+    "pfid": 672
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 720M",
+    "pfid": 687
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce GT 710M",
+    "pfid": 798
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce 720M",
+    "pfid": 803
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce 710M",
+    "pfid": 680
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700M Series (Notebooks)",
+    "psid": 92,
+    "name": "GeForce 705M",
+    "pfid": 775
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 780 Ti",
+    "pfid": 712
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 780",
+    "pfid": 691
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 770",
+    "pfid": 694
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 760",
+    "pfid": 703
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 760 Ti (OEM)",
+    "pfid": 711
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 750 Ti",
+    "pfid": 727
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 750",
+    "pfid": 728
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GTX 745",
+    "pfid": 730
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GT 740",
+    "pfid": 745
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GT 730",
+    "pfid": 746
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GT 720",
+    "pfid": 754
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GT 710",
+    "pfid": 742
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 700 Series",
+    "psid": 95,
+    "name": "GeForce GT 705",
+    "pfid": 761
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 690",
+    "pfid": 627
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 680",
+    "pfid": 610
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 670",
+    "pfid": 629
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 660 Ti",
+    "pfid": 653
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 660",
+    "pfid": 660
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 650 Ti BOOST",
+    "pfid": 683
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 650 Ti",
+    "pfid": 666
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 650",
+    "pfid": 661
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GTX 645",
+    "pfid": 731
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 645",
+    "pfid": 633
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 640",
+    "pfid": 632
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 635",
+    "pfid": 685
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 630",
+    "pfid": 631
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 625",
+    "pfid": 741
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 620",
+    "pfid": 611
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce GT 610",
+    "pfid": 630
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600 Series",
+    "psid": 85,
+    "name": "GeForce 605",
+    "pfid": 624
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 680MX",
+    "pfid": 677
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 680M",
+    "pfid": 646
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 675MX",
+    "pfid": 664
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 675M",
+    "pfid": 638
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 670MX",
+    "pfid": 663
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 670M",
+    "pfid": 639
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GTX 660M",
+    "pfid": 637
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 650M",
+    "pfid": 636
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 645M",
+    "pfid": 662
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 640M",
+    "pfid": 635
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 640M LE",
+    "pfid": 644
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 635M",
+    "pfid": 619
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 630M",
+    "pfid": 612
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 625M",
+    "pfid": 671
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce GT 620M",
+    "pfid": 634
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 600M Series (Notebooks)",
+    "psid": 84,
+    "name": "GeForce 610M",
+    "pfid": 620
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GTX 580M",
+    "pfid": 601
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GTX 570M",
+    "pfid": 603
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GTX 560M",
+    "pfid": 561
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GT 555M",
+    "pfid": 552
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GT 550M",
+    "pfid": 551
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GT 540M",
+    "pfid": 550
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GT 525M",
+    "pfid": 549
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GT 520M",
+    "pfid": 548
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 500M Series (Notebooks)",
+    "psid": 78,
+    "name": "GeForce GT 520MX",
+    "pfid": 602
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTX 480",
+    "pfid": 490
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTX 470",
+    "pfid": 491
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTX 465",
+    "pfid": 498
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTX 460 SE v2",
+    "pfid": 600
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTX 460 SE",
+    "pfid": 530
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTX 460",
+    "pfid": 499
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GTS 450",
+    "pfid": 514
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GT 440",
+    "pfid": 541
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GT 430",
+    "pfid": 516
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce GT 420",
+    "pfid": 538
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 400 Series",
+    "psid": 71,
+    "name": "GeForce 405",
+    "pfid": 572
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTX 295",
+    "pfid": 376
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTX 285",
+    "pfid": 377
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTX 280",
+    "pfid": 299
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTX 275",
+    "pfid": 416
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTX 260",
+    "pfid": 300
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTS 250",
+    "pfid": 399
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GTS 240",
+    "pfid": 450
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GT 230",
+    "pfid": 449
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GT 240",
+    "pfid": 470
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce GT 220",
+    "pfid": 448
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce G210",
+    "pfid": 447
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce 210",
+    "pfid": 453
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 200 Series",
+    "psid": 52,
+    "name": "GeForce 205",
+    "pfid": 471
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 100 Series",
+    "psid": 59,
+    "name": "GeForce GT 140",
+    "pfid": 400
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 100 Series",
+    "psid": 59,
+    "name": "GeForce GT 130",
+    "pfid": 401
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 100 Series",
+    "psid": 59,
+    "name": "GeForce GT 120",
+    "pfid": 402
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 100 Series",
+    "psid": 59,
+    "name": "GeForce G100",
+    "pfid": 415
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8800 Ultra",
+    "pfid": 8
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8800 GTX",
+    "pfid": 7
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8800 GTS 512",
+    "pfid": 270
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8800 GTS",
+    "pfid": 6
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8800 GT",
+    "pfid": 258
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8800 GS",
+    "pfid": 281
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8600 GTS",
+    "pfid": 5
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8600 GT",
+    "pfid": 4
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8600 GS",
+    "pfid": 233
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8500 GT",
+    "pfid": 3
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8400 GS",
+    "pfid": 2
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8400 SE",
+    "pfid": 234
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8400",
+    "pfid": 272
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8300 GS",
+    "pfid": 1
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8300",
+    "pfid": 288
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8200",
+    "pfid": 289
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8200 /nForce 730a",
+    "pfid": 293
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8 Series",
+    "psid": 1,
+    "name": "GeForce 8100 /nForce 720a",
+    "pfid": 290
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8800M GTX",
+    "pfid": 363
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8800M GTS",
+    "pfid": 364
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8800M GS",
+    "pfid": 365
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8700M GT",
+    "pfid": 366
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8600M GT",
+    "pfid": 367
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8600M GS",
+    "pfid": 368
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8400M GT",
+    "pfid": 369
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8400M GS",
+    "pfid": 370
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8400M G",
+    "pfid": 371
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8200M G",
+    "pfid": 385
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce 8M Series (Notebooks)",
+    "psid": 54,
+    "name": "GeForce 8200M",
+    "pfid": 569
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7950 GTX",
+    "pfid": 372
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7900 GTX",
+    "pfid": 373
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7900 GS",
+    "pfid": 375
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7900 SE",
+    "pfid": 389
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7800 GTX",
+    "pfid": 374
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7800",
+    "pfid": 390
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7700",
+    "pfid": 391
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7600",
+    "pfid": 392
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7400",
+    "pfid": 393
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7300",
+    "pfid": 394
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce Go 7200",
+    "pfid": 395
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce 7150M / nForce 630M",
+    "pfid": 397
+  },
+  {
+    "type_name": "GeForce",
+    "pt": 1,
+    "series_name": "GeForce Go 7 Series (Notebooks)",
+    "psid": 55,
+    "name": "GeForce 7000M / nForce 610M",
+    "pfid": 396
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "NVIDIA TITAN RTX",
+    "pfid": 885
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "NVIDIA TITAN V",
+    "pfid": 861
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "NVIDIA TITAN Xp",
+    "pfid": 850
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "NVIDIA TITAN X (Pascal)",
+    "pfid": 818
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "GeForce GTX TITAN X",
+    "pfid": 766
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "GeForce GTX TITAN",
+    "pfid": 695
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "GeForce GTX TITAN Black",
+    "pfid": 729
+  },
+  {
+    "type_name": "TITAN",
+    "pt": 11,
+    "series_name": "NVIDIA TITAN Series",
+    "psid": 106,
+    "name": "GeForce GTX TITAN Z",
+    "pfid": 744
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 6000 Blackwell Workstation",
+    "pfid": 1071
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 6000 Blackwell Max-Q Workstation",
+    "pfid": 1072
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 5000 72GB Blackwell",
+    "pfid": 1102
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 5000 48GB Blackwell",
+    "pfid": 1080
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition",
+    "pfid": 1103
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 4500 Blackwell Workstation Edition",
+    "pfid": 1082
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 4000 Blackwell SFF Edition",
+    "pfid": 1093
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 4000 Blackwell",
+    "pfid": 1083
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series",
+    "psid": 132,
+    "name": "NVIDIA RTX PRO 2000 Blackwell",
+    "pfid": 1094
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series (Notebooks)",
+    "psid": 134,
+    "name": "NVIDIA RTX PRO 5000 Blackwell Laptop GPU",
+    "pfid": 1085
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series (Notebooks)",
+    "psid": 134,
+    "name": "NVIDIA RTX PRO 4000 Blackwell Laptop GPU",
+    "pfid": 1084
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series (Notebooks)",
+    "psid": 134,
+    "name": "NVIDIA RTX PRO 3000 Blackwell Laptop GPU",
+    "pfid": 1086
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series (Notebooks)",
+    "psid": 134,
+    "name": "NVIDIA RTX PRO 2000 Blackwell Laptop GPU",
+    "pfid": 1087
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series (Notebooks)",
+    "psid": 134,
+    "name": "NVIDIA RTX PRO 1000 Blackwell Laptop GPU",
+    "pfid": 1088
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX PRO Series (Notebooks)",
+    "psid": 134,
+    "name": "NVIDIA RTX PRO 500 Blackwell Laptop GPU",
+    "pfid": 1089
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 6000D",
+    "pfid": 1095
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 6000 Ada Generation",
+    "pfid": 1000
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 5880 Ada Generation",
+    "pfid": 1035
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 5000 Ada Generation",
+    "pfid": 1025
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 4500 Ada Generation",
+    "pfid": 1030
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 4000 Ada Generation",
+    "pfid": 1026
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 4000 SFF Ada Generation",
+    "pfid": 1014
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 2000 Ada Generation",
+    "pfid": 1042
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX 2000E Ada Generation",
+    "pfid": 1049
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A6000",
+    "pfid": 935
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A5500",
+    "pfid": 984
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A5000",
+    "pfid": 943
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A4500",
+    "pfid": 969
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A4000H",
+    "pfid": 980
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A4000",
+    "pfid": 944
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A2000 12GB",
+    "pfid": 971
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A2000",
+    "pfid": 967
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A1000",
+    "pfid": 1047
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA RTX A400",
+    "pfid": 1048
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA A800 40GB Active",
+    "pfid": 1031
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA T1000 8GB",
+    "pfid": 972
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA T1000",
+    "pfid": 945
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA T600",
+    "pfid": 946
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA T400 4GB",
+    "pfid": 973
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA T400",
+    "pfid": 947
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series",
+    "psid": 122,
+    "name": "NVIDIA T400E",
+    "pfid": 1044
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 5000 Ada Generation Laptop GPU",
+    "pfid": 1020
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 4000 Ada Generation Laptop GPU",
+    "pfid": 1019
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 3500 Ada Generation Laptop GPU",
+    "pfid": 1018
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 3000 Ada Generation Laptop GPU",
+    "pfid": 1017
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 2000 Ada Generation Laptop GPU",
+    "pfid": 1016
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 1000 Ada Generation Laptop GPU",
+    "pfid": 1045
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX 500 Ada Generation Laptop GPU",
+    "pfid": 1046
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A5500 Laptop GPU",
+    "pfid": 987
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A5000 Laptop GPU",
+    "pfid": 958
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A4500 Laptop GPU",
+    "pfid": 983
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A4000 Laptop GPU",
+    "pfid": 959
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A3000 12GB Laptop GPU",
+    "pfid": 988
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A3000 Laptop GPU",
+    "pfid": 956
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A2000 8GB Laptop GPU",
+    "pfid": 989
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A2000 Laptop GPU",
+    "pfid": 957
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A1000 6GB Laptop GPU",
+    "pfid": 1021
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A1000 Laptop GPU",
+    "pfid": 981
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA RTX A500 Laptop GPU",
+    "pfid": 998
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA T1200 Laptop GPU ",
+    "pfid": 960
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA T600 Laptop GPU",
+    "pfid": 961
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA T550 Laptop GPU",
+    "pfid": 986
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "NVIDIA RTX Series (Notebooks)",
+    "psid": 124,
+    "name": "NVIDIA T500",
+    "pfid": 941
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series",
+    "psid": 109,
+    "name": "Quadro RTX 8000",
+    "pfid": 886
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series",
+    "psid": 109,
+    "name": "Quadro RTX 6000",
+    "pfid": 881
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series",
+    "psid": 109,
+    "name": "Quadro RTX 5000",
+    "pfid": 882
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series",
+    "psid": 109,
+    "name": "Quadro RTX 4000",
+    "pfid": 884
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series",
+    "psid": 109,
+    "name": "Quadro RTX 3000",
+    "pfid": 905
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series (Notebooks)",
+    "psid": 116,
+    "name": "Quadro RTX 6000",
+    "pfid": 932
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series (Notebooks)",
+    "psid": 116,
+    "name": "Quadro RTX 5000",
+    "pfid": 914
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series (Notebooks)",
+    "psid": 116,
+    "name": "Quadro RTX 4000",
+    "pfid": 913
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro RTX Series (Notebooks)",
+    "psid": 116,
+    "name": "Quadro RTX 3000",
+    "pfid": 912
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro GV100",
+    "pfid": 866
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro GP100",
+    "pfid": 839
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P6000",
+    "pfid": 824
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P5200",
+    "pfid": 869
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P5000",
+    "pfid": 823
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P4000",
+    "pfid": 840
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P2200",
+    "pfid": 900
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P2000",
+    "pfid": 841
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P1000",
+    "pfid": 842
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P620",
+    "pfid": 865
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P600",
+    "pfid": 843
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro P400",
+    "pfid": 844
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro M6000 24GB",
+    "pfid": 809
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro M6000",
+    "pfid": 768
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro M5000",
+    "pfid": 780
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro M4000",
+    "pfid": 781
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro M2000",
+    "pfid": 811
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K6000",
+    "pfid": 708
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K5000 for Mac",
+    "pfid": 696
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K5200",
+    "pfid": 752
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K5000",
+    "pfid": 654
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K4000",
+    "pfid": 681
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K4200",
+    "pfid": 751
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K2200",
+    "pfid": 750
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K2000",
+    "pfid": 678
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K2000D",
+    "pfid": 682
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K1200",
+    "pfid": 767
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K620",
+    "pfid": 749
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K600",
+    "pfid": 679
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro K420",
+    "pfid": 748
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 7000",
+    "pfid": 625
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 6000",
+    "pfid": 508
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 5000",
+    "pfid": 509
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 4000",
+    "pfid": 510
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 4000 for Mac",
+    "pfid": 529
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 2000",
+    "pfid": 511
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 2000D",
+    "pfid": 543
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 600",
+    "pfid": 512
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 410",
+    "pfid": 645
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series",
+    "psid": 73,
+    "name": "Quadro 400",
+    "pfid": 553
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro T2000",
+    "pfid": 908
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro T1000",
+    "pfid": 909
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P5200",
+    "pfid": 870
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P5000",
+    "pfid": 847
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P4200",
+    "pfid": 871
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P3200",
+    "pfid": 872
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P4000",
+    "pfid": 848
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P3000",
+    "pfid": 849
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P2000",
+    "pfid": 873
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P1000",
+    "pfid": 874
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P620",
+    "pfid": 992
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P600",
+    "pfid": 875
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P520",
+    "pfid": 901
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro P500",
+    "pfid": 876
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M2200",
+    "pfid": 834
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M1200",
+    "pfid": 835
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M620",
+    "pfid": 830
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M520",
+    "pfid": 851
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M5500",
+    "pfid": 810
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M5000M",
+    "pfid": 788
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M4000M",
+    "pfid": 789
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M3000M",
+    "pfid": 790
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M2000M",
+    "pfid": 791
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M1000M",
+    "pfid": 792
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M600M",
+    "pfid": 793
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro M500M",
+    "pfid": 814
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K5100M",
+    "pfid": 723
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K5000M",
+    "pfid": 659
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K4100M",
+    "pfid": 722
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K4000M",
+    "pfid": 658
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K3100M",
+    "pfid": 721
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K2200M",
+    "pfid": 774
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K2100M",
+    "pfid": 720
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K3000M",
+    "pfid": 657
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K2000M",
+    "pfid": 649
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K1100M",
+    "pfid": 719
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K1000M",
+    "pfid": 650
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K620M",
+    "pfid": 776
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K610M",
+    "pfid": 724
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K510M",
+    "pfid": 725
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro K500M",
+    "pfid": 706
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro 5010M",
+    "pfid": 566
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro 5000M",
+    "pfid": 524
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro 4000M",
+    "pfid": 567
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro 3000M",
+    "pfid": 568
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro 2000M",
+    "pfid": 546
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Series (Notebooks)",
+    "psid": 74,
+    "name": "Quadro 1000M",
+    "pfid": 547
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 5800",
+    "pfid": 336
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 5600",
+    "pfid": 106
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 5500",
+    "pfid": 105
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 4800",
+    "pfid": 335
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 4700 X2",
+    "pfid": 294
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 4600",
+    "pfid": 104
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 4500 X2",
+    "pfid": 103
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 4500",
+    "pfid": 102
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 4000",
+    "pfid": 101
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 3800",
+    "pfid": 410
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 3700",
+    "pfid": 277
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 3500",
+    "pfid": 100
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 3450",
+    "pfid": 306
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 3400/4400",
+    "pfid": 98
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 3000",
+    "pfid": 97
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 2000",
+    "pfid": 96
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1800",
+    "pfid": 411
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1700",
+    "pfid": 247
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1500",
+    "pfid": 95
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1400",
+    "pfid": 94
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1300",
+    "pfid": 93
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1100",
+    "pfid": 92
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 1000",
+    "pfid": 91
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 700",
+    "pfid": 90
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 580",
+    "pfid": 413
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 560",
+    "pfid": 89
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 570",
+    "pfid": 246
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 550",
+    "pfid": 88
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 540",
+    "pfid": 87
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 500/FX 600",
+    "pfid": 86
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 470",
+    "pfid": 319
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 380 Low Profile",
+    "pfid": 469
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 380",
+    "pfid": 412
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 370 Low Profile",
+    "pfid": 333
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 370",
+    "pfid": 245
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 350",
+    "pfid": 85
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro FX 330",
+    "pfid": 107
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series",
+    "psid": 10,
+    "name": "Quadro CX",
+    "pfid": 318
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 3800M",
+    "pfid": 483
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 3700M",
+    "pfid": 419
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 3600M",
+    "pfid": 251
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 2800M",
+    "pfid": 468
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 2700M",
+    "pfid": 126
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 1800M",
+    "pfid": 482
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 1700M",
+    "pfid": 252
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 1600M",
+    "pfid": 125
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 880M",
+    "pfid": 485
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 770M",
+    "pfid": 420
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 570M",
+    "pfid": 253
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 380M",
+    "pfid": 484
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 370M",
+    "pfid": 124
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro FX Series (Notebooks)",
+    "psid": 42,
+    "name": "Quadro FX 360M",
+    "pfid": 254
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro RTX 5000",
+    "pfid": 924
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro RTX 3000",
+    "pfid": 925
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro T2000",
+    "pfid": 991
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro T1000",
+    "pfid": 926
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro P5000",
+    "pfid": 854
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro P3000",
+    "pfid": 855
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro P2000",
+    "pfid": 915
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro P1000",
+    "pfid": 916
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro M5000 SE",
+    "pfid": 829
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro M3000 SE",
+    "pfid": 828
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro K3100M",
+    "pfid": 743
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro 500M",
+    "pfid": 615
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro 1000M",
+    "pfid": 616
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro 3000M",
+    "pfid": 617
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro 4000M",
+    "pfid": 618
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 560M",
+    "pfid": 442
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 370M",
+    "pfid": 440
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 770M",
+    "pfid": 441
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 880M",
+    "pfid": 497
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 1600M",
+    "pfid": 443
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 2800M",
+    "pfid": 496
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro FX 3600M",
+    "pfid": 444
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro Blade/Embedded Series ",
+    "psid": 65,
+    "name": "Quadro NVS 120M",
+    "pfid": 445
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 50",
+    "pfid": 265
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 55/280 PCI",
+    "pfid": 108
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 210",
+    "pfid": 332
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 280",
+    "pfid": 267
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 285",
+    "pfid": 109
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 290",
+    "pfid": 244
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 295",
+    "pfid": 414
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "NVS 810",
+    "pfid": 787
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "NVS 510",
+    "pfid": 656
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "NVS 315",
+    "pfid": 698
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "NVS 310",
+    "pfid": 643
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "NVS 300",
+    "pfid": 575
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 420",
+    "pfid": 380
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 440",
+    "pfid": 110
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series",
+    "psid": 11,
+    "name": "Quadro NVS 450",
+    "pfid": 337
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "NVS 5400M",
+    "pfid": 640
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "NVS 5200M",
+    "pfid": 613
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "NVS 5100M",
+    "pfid": 576
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "NVS 4200M",
+    "pfid": 577
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "NVS 3100M",
+    "pfid": 578
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "NVS 2100M",
+    "pfid": 579
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 510M",
+    "pfid": 387
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 320M",
+    "pfid": 340
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 300M",
+    "pfid": 388
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 160M",
+    "pfid": 342
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 150M",
+    "pfid": 343
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 140M",
+    "pfid": 344
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 135M",
+    "pfid": 345
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 130M",
+    "pfid": 346
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 120M",
+    "pfid": 417
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro NVS Series (Notebooks)",
+    "psid": 39,
+    "name": "Quadro NVS 110M",
+    "pfid": 386
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 380 XGL",
+    "pfid": 115
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 550 XGL",
+    "pfid": 116
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 580 XGL",
+    "pfid": 117
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 700 XGL",
+    "pfid": 118
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 750 XGL",
+    "pfid": 119
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 780 XGL",
+    "pfid": 120
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 900 XGL",
+    "pfid": 121
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 XGL Series",
+    "psid": 12,
+    "name": "Quadro4 980 XGL",
+    "pfid": 122
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 Go Series",
+    "psid": 15,
+    "name": "Quadro4 550 XGL",
+    "pfid": 130
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 Go Series",
+    "psid": 15,
+    "name": "Quadro4 500 GoGL",
+    "pfid": 131
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro4 Go Series",
+    "psid": 15,
+    "name": "Quadro4 700 GoGL",
+    "pfid": 132
+  },
+  {
+    "type_name": "NVIDIA RTX PRO / RTX / Quadro",
+    "pt": 3,
+    "series_name": "Quadro2 Go Series",
+    "psid": 16,
+    "name": "Quadro2 MXR/EX/Go",
+    "pfid": 133
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "B-Series",
+    "psid": 135,
+    "name": "NVIDIA DRIVE P2021",
+    "pfid": 1100
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "L-Series",
+    "psid": 128,
+    "name": "L40",
+    "pfid": 1003
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "L-Series",
+    "psid": 128,
+    "name": "L40S",
+    "pfid": 1027
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "L-Series",
+    "psid": 128,
+    "name": "L20",
+    "pfid": 1038
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "L-Series",
+    "psid": 128,
+    "name": "L4",
+    "pfid": 1009
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "L-Series",
+    "psid": 128,
+    "name": "L2",
+    "pfid": 1037
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "H-Series",
+    "psid": 126,
+    "name": "NVIDIA H20 BFX",
+    "pfid": 1099
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "H-Series",
+    "psid": 126,
+    "name": "NVIDIA H100 PCIe",
+    "pfid": 994
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "H-Series",
+    "psid": 126,
+    "name": "NVIDIA H100 NVL",
+    "pfid": 1028
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "H-Series",
+    "psid": 126,
+    "name": "NVIDIA H800 PCIe",
+    "pfid": 1012
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "H-Series",
+    "psid": 126,
+    "name": "NVIDIA H800 NVL",
+    "pfid": 1029
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "H-Series",
+    "psid": 126,
+    "name": "NVIDIA H200 NVL",
+    "pfid": 1062
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA AX800",
+    "pfid": 1032
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A800",
+    "pfid": 996
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A100",
+    "pfid": 923
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A40",
+    "pfid": 937
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A30",
+    "pfid": 954
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A16",
+    "pfid": 966
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A10",
+    "pfid": 955
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "A-Series",
+    "psid": 118,
+    "name": "NVIDIA A2",
+    "pfid": 970
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA RTX PRO 6000 Blackwell Server Edition",
+    "pfid": 1081
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA RTX PRO 4500 Blackwell Server Edition",
+    "pfid": 1104
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 6000 Ada Generation",
+    "pfid": 1061
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 5000 Ada Generation",
+    "pfid": 1051
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 4500 Ada Generation",
+    "pfid": 1052
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 4000 Ada Generation",
+    "pfid": 1053
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 4000 SFF Ada Generation",
+    "pfid": 1054
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 2000 Ada Generation",
+    "pfid": 1055
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 2000E Ada Generation",
+    "pfid": 1056
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX A2000 12GB",
+    "pfid": 1057
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX A2000",
+    "pfid": 1058
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX A1000",
+    "pfid": 1059
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX A400",
+    "pfid": 1060
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 8000",
+    "pfid": 927
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 6000D",
+    "pfid": 1098
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "RTX 6000",
+    "pfid": 928
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA RTX A6000",
+    "pfid": 948
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA RTX A5000",
+    "pfid": 949
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA RTX A4000",
+    "pfid": 950
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA T1000",
+    "pfid": 951
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA T600",
+    "pfid": 952
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "RTX-Series",
+    "psid": 119,
+    "name": "NVIDIA T400",
+    "pfid": 953
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX GB300",
+    "pfid": 1096
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX GB200",
+    "pfid": 1069
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX B300",
+    "pfid": 1097
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX B200",
+    "pfid": 1064
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "H20-3e",
+    "pfid": 1063
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "H20",
+    "pfid": 1043
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "GH200",
+    "pfid": 1034
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX H800",
+    "pfid": 1013
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX H200",
+    "pfid": 1050
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX H100",
+    "pfid": 1002
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX A800",
+    "pfid": 997
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX A100",
+    "pfid": 922
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "HGX-Series",
+    "psid": 114,
+    "name": "HGX-2",
+    "pfid": 896
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "T-Series",
+    "psid": 110,
+    "name": "Tesla T4",
+    "pfid": 883
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "V-Series",
+    "psid": 105,
+    "name": "Tesla V100",
+    "pfid": 857
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "P-Series",
+    "psid": 103,
+    "name": "Tesla P100",
+    "pfid": 822
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "P-Series",
+    "psid": 103,
+    "name": "Tesla P40",
+    "pfid": 827
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "P-Series",
+    "psid": 103,
+    "name": "Tesla P6",
+    "pfid": 858
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "P-Series",
+    "psid": 103,
+    "name": "Tesla P4",
+    "pfid": 831
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K80",
+    "pfid": 762
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K520",
+    "pfid": 856
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K40c",
+    "pfid": 713
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K40m",
+    "pfid": 714
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K40s",
+    "pfid": 715
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K40st",
+    "pfid": 716
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K40t",
+    "pfid": 777
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K20Xm",
+    "pfid": 670
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K20m",
+    "pfid": 668
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K20s",
+    "pfid": 684
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K20c",
+    "pfid": 667
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K10",
+    "pfid": 652
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "K-Series",
+    "psid": 91,
+    "name": "Tesla K8",
+    "pfid": 760
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "C-Class",
+    "psid": 48,
+    "name": "Tesla C2075",
+    "pfid": 573
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "C-Class",
+    "psid": 48,
+    "name": "Tesla C2070",
+    "pfid": 513
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "C-Class",
+    "psid": 48,
+    "name": "Tesla C2050",
+    "pfid": 492
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "C-Class",
+    "psid": 48,
+    "name": "Tesla C1060",
+    "pfid": 327
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "C-Class",
+    "psid": 48,
+    "name": "Tesla C870",
+    "pfid": 278
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M60",
+    "pfid": 783
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M40 24GB",
+    "pfid": 812
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M40",
+    "pfid": 794
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M6",
+    "pfid": 784
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M4",
+    "pfid": 799
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M2090",
+    "pfid": 570
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M2075",
+    "pfid": 571
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M2070",
+    "pfid": 525
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M2070-Q",
+    "pfid": 542
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M2050",
+    "pfid": 526
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "M-Class",
+    "psid": 75,
+    "name": "M1060",
+    "pfid": 527
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "S-Class",
+    "psid": 50,
+    "name": "S2050",
+    "pfid": 505
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "S-Class",
+    "psid": 50,
+    "name": "S1070",
+    "pfid": 317
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "S-Class",
+    "psid": 50,
+    "name": "S870",
+    "pfid": 280
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "X-Class",
+    "psid": 83,
+    "name": "Tesla X2070",
+    "pfid": 717
+  },
+  {
+    "type_name": "Data Center / Tesla",
+    "pt": 7,
+    "series_name": "X-Class",
+    "psid": 83,
+    "name": "Tesla X2090",
+    "pfid": 608
+  },
+  {
+    "type_name": "GRID",
+    "pt": 9,
+    "series_name": "NVIDIA GRID vGPU",
+    "psid": 96,
+    "name": "GRID K1",
+    "pfid": 709
+  },
+  {
+    "type_name": "GRID",
+    "pt": 9,
+    "series_name": "NVIDIA GRID vGPU",
+    "psid": 96,
+    "name": "GRID K2",
+    "pfid": 710
+  },
+  {
+    "type_name": "GRID",
+    "pt": 9,
+    "series_name": "GRID Series",
+    "psid": 94,
+    "name": "GRID K2",
+    "pfid": 675
+  },
+  {
+    "type_name": "GRID",
+    "pt": 9,
+    "series_name": "GRID Series",
+    "psid": 94,
+    "name": "GRID K520",
+    "pfid": 704
+  },
+  {
+    "type_name": "GRID",
+    "pt": 9,
+    "series_name": "GRID Series",
+    "psid": 94,
+    "name": "GRID K1",
+    "pfid": 674
+  },
+  {
+    "type_name": "GRID",
+    "pt": 9,
+    "series_name": "GRID Series",
+    "psid": 94,
+    "name": "GRID K340",
+    "pfid": 705
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 50",
+    "pfid": 580
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 55/280 PCI",
+    "pfid": 581
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 210",
+    "pfid": 582
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 280",
+    "pfid": 583
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 285",
+    "pfid": 584
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 290",
+    "pfid": 585
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 295",
+    "pfid": 586
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "NVS 810",
+    "pfid": 786
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "NVS 510",
+    "pfid": 655
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "NVS 315",
+    "pfid": 697
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "NVS 310",
+    "pfid": 641
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "NVS 300",
+    "pfid": 531
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 420",
+    "pfid": 587
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 440",
+    "pfid": 588
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series",
+    "psid": 77,
+    "name": "Quadro NVS 450",
+    "pfid": 589
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "NVS 5400M",
+    "pfid": 642
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "NVS 5200M",
+    "pfid": 614
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "NVS 5100M",
+    "pfid": 486
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "NVS 4200M",
+    "pfid": 565
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "NVS 3100M",
+    "pfid": 487
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "NVS 2100M",
+    "pfid": 517
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 510M",
+    "pfid": 590
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 320M",
+    "pfid": 591
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 300M",
+    "pfid": 592
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 160M",
+    "pfid": 593
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 150M",
+    "pfid": 594
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 140M",
+    "pfid": 595
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 135M",
+    "pfid": 596
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 130M",
+    "pfid": 597
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 120M",
+    "pfid": 598
+  },
+  {
+    "type_name": "NVS",
+    "pt": 8,
+    "series_name": "NVS Series (Notebooks)",
+    "psid": 80,
+    "name": "Quadro NVS 110M",
+    "pfid": 599
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 790i Ultra SLI",
+    "pfid": 285
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 790i SLI",
+    "pfid": 284
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 780i SLI",
+    "pfid": 273
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 760i SLI",
+    "pfid": 409
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 750i SLI",
+    "pfid": 274
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 740i SLI",
+    "pfid": 403
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 730i/Geforce 9400/9300",
+    "pfid": 320
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 720i",
+    "pfid": 378
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 780a SLI",
+    "pfid": 292
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 750a SLI",
+    "pfid": 404
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 740a SLI",
+    "pfid": 405
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 730a/GeForce 8300/8200",
+    "pfid": 406
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 720a - GeForce 8100",
+    "pfid": 407
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 7 Series",
+    "psid": 45,
+    "name": "nForce 710a",
+    "pfid": 408
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 680i SLI",
+    "pfid": 177
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 680i LT SLI",
+    "pfid": 178
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 650i SLI",
+    "pfid": 179
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 650i Ultra",
+    "pfid": 180
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 630i/GeForce 7150",
+    "pfid": 255
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 630i/GeForce 7100",
+    "pfid": 256
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 610i/GeForce 7050",
+    "pfid": 257
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 680a SLI",
+    "pfid": 181
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 630a / GeForce 7050",
+    "pfid": 242
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 6 Series",
+    "psid": 5,
+    "name": "nForce 630a / GeForce 7025",
+    "pfid": 243
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 590 SLI Intel",
+    "pfid": 182
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 570 SLI Intel",
+    "pfid": 183
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 590 SLI AMD",
+    "pfid": 184
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 570 SLI AMD",
+    "pfid": 185
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 570 Ultra AMD",
+    "pfid": 186
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 560",
+    "pfid": 224
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 550",
+    "pfid": 187
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 5 Series",
+    "psid": 6,
+    "name": "nForce 520",
+    "pfid": 190
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "GeForce 2 GTS/Ultra/Pro",
+    "psid": 20,
+    "name": "GeForce2 GTS/Pro",
+    "pfid": 152
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "GeForce 2 GTS/Ultra/Pro",
+    "psid": 20,
+    "name": "GeForce2 Ti",
+    "pfid": 153
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "GeForce 2 GTS/Ultra/Pro",
+    "psid": 20,
+    "name": "GeForce2 Ultra",
+    "pfid": 154
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "GeForce 2 MX Series",
+    "psid": 21,
+    "name": "GeForce2 Integrated GPU",
+    "pfid": 155
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "GeForce 2 MX Series",
+    "psid": 21,
+    "name": "GeForce2 MX 100/200",
+    "pfid": 156
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "GeForce 2 MX Series",
+    "psid": 21,
+    "name": "GeForce2 MX/MX 400",
+    "pfid": 157
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 9 Series",
+    "psid": 58,
+    "name": "nForce 980a SLI",
+    "pfid": 398
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 SLI X16 Intel",
+    "pfid": 191
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 SLI Intel",
+    "pfid": 192
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 SLI XE Intel",
+    "pfid": 193
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 Ultra Intel",
+    "pfid": 194
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 SLI X16 AMD",
+    "pfid": 195
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 SLI AMD",
+    "pfid": 196
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 Ultra AMD",
+    "pfid": 197
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce4 AMD",
+    "pfid": 198
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 430 / GeForce 6150",
+    "pfid": 200
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 430 / GeForce 6150LE",
+    "pfid": 201
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 410 / GeForce 6150LE",
+    "pfid": 202
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 430 / GeForce 6100",
+    "pfid": 203
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 410 / GeForce 6100",
+    "pfid": 204
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 430 / GeForce 6150SE",
+    "pfid": 205
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 430 / Geforce 6100",
+    "pfid": 206
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 405 / Geforce 6100",
+    "pfid": 207
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 400 / Geforce 6100",
+    "pfid": 208
+  },
+  {
+    "type_name": "Legacy",
+    "pt": 4,
+    "series_name": "nForce 4 Series",
+    "psid": 7,
+    "name": "nForce 420 / Geforce 6100",
+    "pfid": 209
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision",
+    "psid": 57,
+    "name": "Full driver CD for GeForce",
+    "pfid": 381
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision",
+    "psid": 57,
+    "name": "Full driver CD for Notebook PCs",
+    "pfid": 488
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision",
+    "psid": 57,
+    "name": "3D Vision driver for GeForce",
+    "pfid": 432
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision",
+    "psid": 57,
+    "name": "3D Vision driver for Notebook",
+    "pfid": 555
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision",
+    "psid": 57,
+    "name": "3D Vision driver for Quadro",
+    "pfid": 452
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision",
+    "psid": 57,
+    "name": "3D Vision Video Player",
+    "pfid": 451
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision Pro",
+    "psid": 64,
+    "name": "3D Vision Pro driver ",
+    "pfid": 535
+  },
+  {
+    "type_name": "3D Vision",
+    "pt": 5,
+    "series_name": "3D Vision Pro",
+    "psid": 64,
+    "name": "3D Vision Pro Video Player",
+    "pfid": 536
+  }
+]

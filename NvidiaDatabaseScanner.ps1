@@ -1,8 +1,11 @@
 ﻿# --- PARAMETERS ---
 Param(
     [Parameter(Mandatory=$false)]
-    [string]$TargetPath = (Join-Path $PSScriptRoot "NvidiaDBScannerProject")
+    [string]$TargetPath = $PSScriptRoot
 )
+
+$geckoDriver = "geckodriver.exe"
+$webDriver = "WebDriver.dll"
 
 # --- INITIALIZATION ---
 Clear-Host
@@ -11,76 +14,31 @@ Write-Host "   NVIDIA DEEP-SCAN & AUTOMATION SYSTEM        " -ForegroundColor Cy
 Write-Host "===============================================" -ForegroundColor Cyan
 Write-Host "[LOG] $(Get-Date -Format 'HH:mm:ss') - Initializing process..." -ForegroundColor Gray
 
-# Ensure target directory exists without changing session location
-if (!(Test-Path $TargetPath)) { 
-    Write-Host "[ACTION] Creating target directory: $TargetPath" -ForegroundColor Yellow
-    New-Item -ItemType Directory -Path $TargetPath | Out-Null 
-}
-$binPath = Join-Path $TargetPath "bin"
+$searchPath = $TargetPath
 
-# 1. CHECK .NET SDK
-Write-Host "`n[1/5] CHECKING .NET ENVIRONMENT" -ForegroundColor Cyan
-if (!(Get-Command dotnet -ErrorAction SilentlyContinue)) {
-    Write-Host "[!] .NET SDK missing. Attempting installation via Winget..." -ForegroundColor Yellow
-    
-    try {
-        winget install Microsoft.DotNet.SDK.8 --silent --accept-package-agreements --accept-source-agreements
-        # Refresh environment path for the current process
-        $env:Path = [System.Environment]::GetEnvironmentVariable("Path","Machine") + ";" + [System.Environment]::GetEnvironmentVariable("Path","User")
-        
-        # Verify if installation was actually successful
-        if (!(Get-Command dotnet -ErrorAction SilentlyContinue)) {
-            throw "Installation completed but 'dotnet' command is still not recognized."
-        }
-        Write-Host "[OK] .NET SDK installed successfully." -ForegroundColor Green
-    }
-    catch {
-        Write-Host "[CRITICAL] .NET SDK is required but could not be installed automatically." -ForegroundColor Red
-        Write-Host "[ERROR] $($_.Exception.Message)" -ForegroundColor Red
-        Write-Host "Please install .NET 8 SDK manually: https://dotnet.microsoft.com/download" -ForegroundColor Gray
-        return
-    }
-} else {
-    $sdkVer = (dotnet --version)
-    Write-Host "[OK] .NET SDK active (v$sdkVer)" -ForegroundColor Green
-}
+# 1. LOAD LIBRARIES (RECURSIVE SEARCH)
+Write-Host "`n[1/3] LOADING ASSEMBLIES" -ForegroundColor Cyan
+Write-Host "[ACTION] Searching for $webDriver in $searchPath..." -ForegroundColor Gray
 
-# 2. SELENIUM SETUP
-Write-Host "`n[2/5] CONFIGURING SELENIUM & GECKODRIVER" -ForegroundColor Cyan
-Write-Host "[ACTION] Creating C# project structure in target folder..." -ForegroundColor Gray
-dotnet new classlib --force --output $TargetPath | Out-Null
-
-Write-Host "[ACTION] Fetching NuGet packages (WebDriver + GeckoDriver)..." -ForegroundColor Gray
-dotnet add $TargetPath package Selenium.WebDriver | Out-Null
-dotnet add $TargetPath package Selenium.WebDriver.GeckoDriver | Out-Null
-
-Write-Host "[ACTION] Publishing binaries to $binPath..." -ForegroundColor Gray
-dotnet publish $TargetPath -o $binPath | Out-Null
-Write-Host "[OK] Environment setup complete." -ForegroundColor Green
-
-# 3. LOAD LIBRARIES (RECURSIVE SEARCH)
-Write-Host "`n[3/5] LOADING ASSEMBLIES" -ForegroundColor Cyan
-Write-Host "[ACTION] Searching recursively for WebDriver.dll in $binPath..." -ForegroundColor Gray
-
-# Search recursively because NuGet often places DLLs in framework-specific subfolders
-$dllFile = Get-ChildItem -Path $binPath -Filter "WebDriver.dll" -Recurse | Select-Object -First 1
+$dllFile = Get-ChildItem -Path $searchPath -Filter "$webDriver" -Recurse | Select-Object -First 1
 
 if (!$dllFile) { 
-    Write-Host "[CRITICAL] WebDriver.dll not found in $binPath!" -ForegroundColor Red
+    Write-Host "[CRITICAL] $webDriver not found!" -ForegroundColor Red
     return 
 }
+
+Unblock-File -Path $dllFile.FullName
 Add-Type -Path $dllFile.FullName
-Write-Host "[OK] WebDriver assembly loaded: $($dllFile.Name)" -ForegroundColor Green
+Write-Host "[OK] $webDriver assembly loaded." -ForegroundColor Green
 
-# 4. INITIALIZE BROWSER (RECURSIVE SEARCH)
-Write-Host "`n[4/5] INITIALIZING BROWSER ENGINE" -ForegroundColor Cyan
-Write-Host "[ACTION] Searching recursively for geckodriver.exe in $binPath..." -ForegroundColor Gray
+# 2. INITIALIZE BROWSER (RECURSIVE SEARCH)
+Write-Host "`n[2/3] INITIALIZING BROWSER ENGINE" -ForegroundColor Cyan
+Write-Host "[ACTION] Searching for $geckoDriver in $searchPath..." -ForegroundColor Gray
 
-# Locate geckodriver.exe (usually hidden in runtimes\win-x64\native)
-$geckoFile = Get-ChildItem -Path $binPath -Filter "geckodriver.exe" -Recurse | Select-Object -First 1
+$geckoFile = Get-ChildItem -Path $searchPath -Filter "$geckoDriver" -Recurse | Select-Object -First 1
 
 if (!$geckoFile) { 
-    Write-Host "[CRITICAL] GeckoDriver.exe not found in $binPath!" -ForegroundColor Red
+    Write-Host "[CRITICAL] $geckoDriver not found!" -ForegroundColor Red
     return 
 }
 
@@ -90,6 +48,7 @@ $options.AddArgument("--headless")
 Write-Host "[INFO] Using Driver from: $($geckoFile.FullName)" -ForegroundColor Gray
 $service = [OpenQA.Selenium.Firefox.FirefoxDriverService]::CreateDefaultService($geckoFile.DirectoryName)
 $driver = New-Object OpenQA.Selenium.Firefox.FirefoxDriver($service, $options)
+$driver.Manage().Timeouts().AsynchronousJavaScript = [TimeSpan]::FromMinutes(5)     # avoid client-side timeouts
 Write-Host "[OK] Firefox instance is ready." -ForegroundColor Green
 
 # 5. DATA EXTRACTION
@@ -108,25 +67,22 @@ try {
     Write-Host "[SCAN] Extracting full driver parameters via JavaScript..." -ForegroundColor Yellow
 
     $deepScanJs = @"
-    return (async () => {
-        let fullGpuList = [];
-        const seenGpuIds = new Set(); // Verhindert Dubletten
-        const baseUrl = dd3Config.nvServicesLocation + '/controller.php';
+    const done = arguments[arguments.length - 1]; // Seleniums Callback-Funktion
     
-        // helper to avoid timeouts
+    (async () => {
+        let fullGpuList = [];
+        const seenGpuIds = new Set();
+        const baseUrl = dd3Config.nvServicesLocation + '/controller.php';
+        // helper to avoid server-side timeouts 
         const sleep = ms => new Promise(r => setTimeout(r, ms));
 
         const fetchData = async (p) => {
             try {
                 // default payload to catch all possible entries
-                const payload = {
-                    driverType: "all",
-                    sa: "1",
-                    isBeta: "0",
-                    ...p
-                };
+                const payload = { driverType: "all", sa: "1", isBeta: "0", ...p };
                 return await $.ajax({
                     url: baseUrl,
+                    timeout: 10000, // Schutz gegen hängende Einzel-Requests
                     data: 'com.nvidia.services.Drivers.getMenuArrays/' + JSON.stringify(payload),
                     dataType: 'json'
                 });
@@ -134,27 +90,27 @@ try {
         };
 
         const typesResponse = await fetchData({pt: '0'});
-        if (!typesResponse || !typesResponse[0]) return "[]";
+        if (!typesResponse || !typesResponse[0]) { done("[]"); return; }
 
         const activeTypes = typesResponse[0].filter(t => t.id > 0);
 
-        // check all hardware types
+        // check all hardware types 
         for (let type of activeTypes) {
-            await sleep(50);
+            //await sleep(100);
             const seriesData = await fetchData({pt: type.id.toString()});
         
             if (seriesData && seriesData[1]) {
                 const seriesList = seriesData[1].filter(s => s.id > 0 && !s.menutext.includes('Select'));
-            
-                // check all product series within a type
+
+                // check all product series within a type 
                 for (let series of seriesList) {
-                    await sleep(50);
+                    //await sleep(100); 
                     const gpuData = await fetchData({
                         pt: type.id.toString(), 
                         pst: series.id.toString()
                     });
 
-                    // extract all hardware entries within a series
+                    // extract all hardware entries within a series 
                     if (gpuData && gpuData[2]) {
                         gpuData[2].filter(g => g.id > 0).forEach(gpu => {
                             const uniqueKey = type.id + '-' + series.id + '-' + gpu.id;
@@ -166,8 +122,7 @@ try {
                                     series_name: series.menutext,
                                     psid: series.id,
                                     name: gpu.menutext,
-                                    pfid: gpu.id,
-                                    search_string: type.id + '|' + series.id + '|' + gpu.id 
+                                    pfid: gpu.id
                                 });
                             }
                         });
@@ -175,11 +130,11 @@ try {
                 }
             }
         }
-        return JSON.stringify(fullGpuList);
+        done(JSON.stringify(fullGpuList));
     })();
 "@
 
-    $rawResult = $driver.ExecuteScript($deepScanJs)
+    $rawResult = $driver.ExecuteAsyncScript($deepScanJs)
     $finalList = $rawResult | ConvertFrom-Json
 
     # SAVE RESULTS
